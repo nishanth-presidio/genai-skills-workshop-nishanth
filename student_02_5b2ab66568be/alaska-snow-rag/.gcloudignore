@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+*.csv
+test_*.py
+evaluation.py
+README.md
